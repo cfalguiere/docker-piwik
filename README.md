@@ -1,5 +1,7 @@
 ##docker-piwik
 
+**** forked for demo purpose - changed a few things and used automated build ****
+
 A quick easy setup for running Piwik inside Docker. 
 
 ##Prerequisites
